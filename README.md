@@ -3,6 +3,7 @@
 update env,
 mongodb change
 update readme
+favicon
 
 ## Features
 
