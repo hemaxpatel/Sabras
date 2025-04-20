@@ -1,4 +1,4 @@
-# SABRAS Mukhwas Online Store/Ecommerce
+# SABRAS Mukhwas Online Store/E-commerce store
 
 update env,
 mongodb change
