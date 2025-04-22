@@ -78,8 +78,9 @@ Start the Admin server
 ```
 
 Setup Environment Vaiables
+Make .env file in "backend" folder and store environment Variables
 
-```Make .env file in "backend" folder and store environment Variables
+```bash
   JWT_SECRET=YOUR_SECRET_TEXT
   SALT=YOUR_SALT_VALUE
   MONGO_URL=YOUR_DATABASE_URL
