@@ -1,5 +1,10 @@
 # SABRAS Mukhwas Online Store
 
+![Home Page](https://github.com/user-attachments/assets/10823072-beab-4de1-8cf8-10ac79fd837b)
+![WhatsApp Image 2025-04-22 at 12 04 42_db62324b](https://github.com/user-attachments/assets/6f3a1393-0c77-414d-9521-47322c4c2e2a)
+![WhatsApp Image 2025-04-22 at 12 05 08_a79072b8](https://github.com/user-attachments/assets/c1d90a2d-1d76-49a6-bb1a-9a03e0225248)
+
+
 ## Features
 
 - User Panel
@@ -81,7 +86,7 @@ Make .env file in "backend" folder and store environment Variables
 
 ```bash
   JWT_SECRET=YOUR_SECRET_TEXT
-  SALT=YOUR_SALT_VALUE
+  SALT=10
   MONGO_URL=YOUR_DATABASE_URL
   STRIPE_SECRET_KEY=YOUR_KEY
   PORT=4000
