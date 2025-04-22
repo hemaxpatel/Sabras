@@ -77,7 +77,6 @@ Start the Admin server
     npm run dev
 ```
 
-Setup Environment Vaiables
 Make .env file in "backend" folder and store environment Variables
 
 ```bash
