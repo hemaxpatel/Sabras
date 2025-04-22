@@ -1,8 +1,12 @@
 # SABRAS Mukhwas Online Store
 
 ![Home Page](https://github.com/user-attachments/assets/10823072-beab-4de1-8cf8-10ac79fd837b)
-![WhatsApp Image 2025-04-22 at 12 04 42_db62324b](https://github.com/user-attachments/assets/6f3a1393-0c77-414d-9521-47322c4c2e2a)
-![WhatsApp Image 2025-04-22 at 12 05 08_a79072b8](https://github.com/user-attachments/assets/c1d90a2d-1d76-49a6-bb1a-9a03e0225248)
+![Explore Menu](https://github.com/user-attachments/assets/6f3a1393-0c77-414d-9521-47322c4c2e2a)
+![Cart and Checkout page](https://github.com/user-attachments/assets/c1d90a2d-1d76-49a6-bb1a-9a03e0225248)
+- Admin Panel
+
+![Add Item Page](https://github.com/user-attachments/assets/cad403e7-d1bd-444d-8193-a675e4565eed)
+![Order List](https://github.com/user-attachments/assets/3f8f1617-3b5a-4d9f-8252-1ca30c6790e2)
 
 
 ## Features
