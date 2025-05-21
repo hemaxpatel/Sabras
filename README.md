@@ -1,4 +1,4 @@
-# SABRAS Mukhwas Online Store
+# SABRAS Online Store
 
 ![Home Page](https://github.com/user-attachments/assets/10823072-beab-4de1-8cf8-10ac79fd837b)
 ![Explore Menu](https://github.com/user-attachments/assets/6f3a1393-0c77-414d-9521-47322c4c2e2a)
@@ -44,7 +44,7 @@
 Clone the project
 
 ```bash
-    git clone https://github.com/hemaxpatel/Sabras-Mukhwas.git
+    git clone https://github.com/hemaxpatel/Sabras.git
 ```
 
 Install dependencies (frontend)
