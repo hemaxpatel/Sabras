@@ -1,5 +1,7 @@
 # SABRAS Online Store
 
+Sabras is a comprehensive full-stack e-commerce application designed to facilitate seamless online shopping experiences. The platform offers robust functionalities for both users and administrators, ensuring efficient product management and secure transactions.
+
 ![Home Page](https://github.com/user-attachments/assets/10823072-beab-4de1-8cf8-10ac79fd837b)
 ![Explore Menu](https://github.com/user-attachments/assets/6f3a1393-0c77-414d-9521-47322c4c2e2a)
 ![Cart and Checkout page](https://github.com/user-attachments/assets/c1d90a2d-1d76-49a6-bb1a-9a03e0225248)
